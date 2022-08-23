@@ -12,3 +12,9 @@
 
 # 钓鱼有方开屏广告
 ^https:\/\/api-access\.pangolin-sdk-toutiao-b\.com\/api\/ad\/union\/sdk\/get_ads url reject
+
+
+
+
+
+hostname= draw.jdfcloud.com, api.wfdata.club,api-access.pangolin-sdk-toutiao-b.com,qapi.jiangshanmen.com,

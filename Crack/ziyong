@@ -1,0 +1,14 @@
+# 直连禁止广告
+# url reject
+
+# 软件VIP
+# url script-response-body xxx.js
+
+# 趣省钱vip
+^http:\/\/qapi\.jiangshanmen\.com\/lemon\/credits\/coin\/detail url script-response-body qsq.js
+
+# 威锋开屏广告
+^https:\/\/api\.wfdata\.club\/v2\/yesfeng\/yesList url reject
+
+# 钓鱼有方开屏广告
+^https:\/\/api-access\.pangolin-sdk-toutiao-b\.com\/api\/ad\/union\/sdk\/get_ads url reject
